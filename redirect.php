@@ -2,9 +2,9 @@
 
 require_once 'vendor/autoload.php';
 
-$clientID = "583092311620-toop7bhtt33q5dm4dp87mbg9e78avvvu.apps.googleusercontent.com";
+$clientID = "Clientid from google developer console";
 
-$clientSecret = "LUhMgMft8lh7yEVCiMuaWsW1";
+$clientSecret = "Clientsecret from google developer console";
 
 $redirectUrl = "http://localhost/GoogleApi/redirect.php";
 
